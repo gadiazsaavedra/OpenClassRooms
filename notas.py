@@ -36,3 +36,4 @@ if len(name) > 0:
     print(f'hello, {name}')
 else:
     print('hello, stranger')
+print('hello')
